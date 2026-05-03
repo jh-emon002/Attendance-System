@@ -1,0 +1,1 @@
+A OpenCV based attendance system that logs timestamped attendances in a csv file. You have to enroll your face from the gui and then the syatem will recognize you whenever you are in front of the camera.
